@@ -1,6 +1,11 @@
 # Travel Planning App
 
-A new Flutter project.
+Flutter project.
+
+![Travle App UI](https://github.com/jdrios-dev/travel_planning_app_flutter/blob/main/assets/imgs/sc1.png?raw=true)
+![Travel App UI](https://github.com/jdrios-dev/travel_planning_app_flutter/blob/main/assets/imgs/sc2.png?raw=true)
+
+Design: https://www.behance.net/gallery/124351673/Travel-planning-app?tracking_source=search_projects_recommended%7Cmobile%20ui%20design
 
 ## Getting Started
 
