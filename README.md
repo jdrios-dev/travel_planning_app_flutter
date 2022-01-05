@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+![Travle App UI](https://github.com/jdrios-dev/travel_planning_app_flutter/blob/main/assets/imgs/sc1.png?raw=true)
+![Travel App UI](https://github.com/jdrios-dev/travel_planning_app_flutter/blob/main/assets/imgs/sc2.png?raw=true)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
